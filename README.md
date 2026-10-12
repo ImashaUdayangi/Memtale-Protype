@@ -27,6 +27,7 @@ All experiments, metrics, and figures can be reproduced using a **single command
 
 ## 2. Project Structure
 
+'''text
 Memtale-Co-Archivist/
 │
 ├── src/
@@ -64,6 +65,7 @@ Memtale-Co-Archivist/
 |__ app.py
 ├── requirements.txt
 └── README.md
+'''
 
 ---
 
