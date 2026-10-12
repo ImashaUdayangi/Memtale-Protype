@@ -1,0 +1,12 @@
+Method,nDCG@5,MRR,RunFile
+BM25,0.3093,0.6323,bm25_run.csv
+SBERT,0.321,0.6559,sbert_run.csv
+RRF,0.4069,0.7509,rrf_run.csv
+CE-Rerank,0.3237,0.6988,ce_run.csv
+OURS,0.3767,0.7317,ours_run.csv
+OURS-wemo=0.00,0.3733,0.7468,wemo_0.00_run.csv
+OURS-wemo=0.10,0.3838,0.7599,wemo_0.10_run.csv
+OURS-wemo=0.20,0.391,0.763,wemo_0.20_run.csv
+OURS-wemo=0.30,0.3767,0.7317,wemo_0.30_run.csv
+OURS-wemo=0.40,0.3582,0.7272,wemo_0.40_run.csv
+OURS-wemo=0.50,0.3085,0.6687,wemo_0.50_run.csv

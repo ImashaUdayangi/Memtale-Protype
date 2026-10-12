@@ -1,0 +1,73 @@
+query_id,query_type,query_subtype,target_emotion,query_text
+q1,emotion_intent,direct,angry,a moment when I felt wronged and couldn't let it go
+q2,emotion_intent,direct,angry,a time I was furious after being treated unfairly
+q3,emotion_intent,direct,angry,a time I felt disrespected and wanted to push back
+q4,emotion_intent,direct,angry,a time someone crossed a line and I couldn't stay calm
+q5,emotion_intent,paraphrase,angry,a moment I felt my patience snap
+q6,emotion_intent,paraphrase,angry,a time I couldn’t accept how I was treated
+q7,emotion_intent,paraphrase,angry,a time it felt unfair and I wanted to react
+q8,emotion_intent,paraphrase,angry,a situation where I felt wronged by someone
+q9,emotion_intent,direct,joyful,a time I couldn’t stop smiling because it felt so good
+q10,emotion_intent,direct,joyful,a time I felt genuinely happy and uplifted
+q11,emotion_intent,direct,joyful,a moment when everything felt bright and positive
+q12,emotion_intent,direct,joyful,a memory where I felt joyful
+q13,emotion_intent,paraphrase,joyful,a time I felt warm and positive inside
+q14,emotion_intent,paraphrase,joyful,a memory that left me feeling cheerful for hours
+q15,emotion_intent,paraphrase,joyful,a moment that filled me with happiness
+q16,emotion_intent,paraphrase,joyful,a time I felt delighted by something simple
+q17,emotion_intent,direct,impressed,"a moment that made me think “wow, that was amazing”"
+q18,emotion_intent,direct,impressed,a time I saw something surprisingly excellent
+q19,emotion_intent,direct,impressed,a moment when someone exceeded my expectations
+q20,emotion_intent,direct,impressed,a memory where I felt impressed
+q21,emotion_intent,paraphrase,impressed,a moment I saw an achievement that stood out
+q22,emotion_intent,paraphrase,impressed,a time I couldn’t believe their skill
+q23,emotion_intent,paraphrase,impressed,a moment when someone did something surprisingly well
+q24,emotion_intent,paraphrase,impressed,a time I felt genuine admiration
+q25,emotion_intent,direct,proud,a time I accomplished something meaningful
+q26,emotion_intent,direct,proud,a time I proved to myself I could do it
+q27,emotion_intent,direct,proud,a memory where I felt proud
+q28,emotion_intent,direct,proud,a moment when my effort finally paid off
+q29,emotion_intent,paraphrase,proud,a time I felt I truly earned it
+q30,emotion_intent,paraphrase,proud,a time I felt valued and accomplished
+q31,emotion_intent,paraphrase,proud,a moment I felt my hard work mattered
+q32,emotion_intent,paraphrase,proud,a time I felt I became a better version of myself
+q33,emotion_intent,direct,confident,a moment I knew I could succeed
+q34,emotion_intent,direct,confident,a time I handled something difficult without doubt
+q35,emotion_intent,direct,confident,a memory where I felt confident
+q36,emotion_intent,direct,confident,a situation where I felt sure of myself
+q37,emotion_intent,paraphrase,confident,a moment I acted without hesitation
+q38,emotion_intent,paraphrase,confident,a time I felt I could handle anything
+q39,emotion_intent,paraphrase,confident,a moment I trusted myself completely
+q40,emotion_intent,paraphrase,confident,a time I felt ready and capable
+q41,emotion_intent,direct,surprised,a time I didn’t see it coming at all
+q42,emotion_intent,direct,surprised,a time something unexpected happened
+q43,emotion_intent,direct,surprised,a memory where I felt surprised
+q44,emotion_intent,direct,surprised,a moment when news changed everything suddenly
+q45,emotion_intent,paraphrase,surprised,a moment that completely caught me off guard
+q46,emotion_intent,paraphrase,surprised,a time I was shocked in an unexpected way
+q47,emotion_intent,paraphrase,surprised,a time something happened out of nowhere
+q48,emotion_intent,paraphrase,surprised,a moment when unexpected news changed things
+q49,emotion_intent,direct,anticipating,a memory where I was anticipating something
+q50,emotion_intent,direct,anticipating,a time I was waiting for something important
+q51,emotion_intent,direct,anticipating,a time I couldn’t relax waiting for what was next
+q52,emotion_intent,direct,anticipating,a moment before something big happened
+q53,emotion_intent,paraphrase,anticipating,a time I felt tense during a buildup
+q54,emotion_intent,paraphrase,anticipating,a moment before something important happened
+q55,emotion_intent,paraphrase,anticipating,a moment when I couldn’t stop thinking about what was next
+q56,emotion_intent,paraphrase,anticipating,a time I felt restless waiting
+q57,emotion_intent,direct,guilty,a time I kept replaying a mistake in my head
+q58,emotion_intent,direct,guilty,a time I wished I could undo what happened
+q59,emotion_intent,direct,guilty,a moment I felt responsible for harm
+q60,emotion_intent,direct,guilty,a time I regretted something I did
+q61,emotion_intent,paraphrase,guilty,a moment regret kept bothering me
+q62,emotion_intent,paraphrase,guilty,a time I felt ashamed of my actions
+q63,emotion_intent,paraphrase,guilty,a time I wished I could fix what I did
+q64,emotion_intent,paraphrase,guilty,a time I couldn’t forgive myself
+q65,emotion_intent,direct,lonely,a time I felt unsupported and isolated
+q66,emotion_intent,direct,lonely,a time I felt alone even around other people
+q67,emotion_intent,direct,lonely,a memory where I felt lonely
+q68,emotion_intent,direct,lonely,a time it felt like I was completely on my own
+q69,emotion_intent,paraphrase,lonely,a moment when no one understood me
+q70,emotion_intent,paraphrase,lonely,a moment when I felt left out
+q71,emotion_intent,paraphrase,lonely,a time I felt like I didn’t belong
+q72,emotion_intent,paraphrase,lonely,a time I felt disconnected from everyone

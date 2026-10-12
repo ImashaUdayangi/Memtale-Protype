@@ -1,0 +1,16 @@
+Pairs: 432
+Cohen kappa (unweighted): 0.5729
+Cohen kappa (linear):     0.6574
+Cohen kappa (quadratic):  0.7426
+Disagreements: 123 (28.47%)
+
+Quadratic kappa per emotion:
+  angry       : 0.7077
+  anticipating: 0.7419
+  confident   : 0.8667
+  guilty      : 0.7742
+  impressed   : 0.7500
+  joyful      : 0.8136
+  lonely      : 0.5938
+  proud       : 0.8387
+  surprised   : 0.6154

@@ -1,0 +1,16 @@
+# Ignore virtual environment & Python cache
+venv_new/
+venv/
+.venv/
+__pycache__/
+
+# Ignore OS & IDE temporary settings
+.idea/
+.vscode/
+.DS_Store
+
+# Ignore large model weights over 100MB
+*.pkl
+*.h5
+*.pt
+*.bin
